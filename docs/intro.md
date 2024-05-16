@@ -2,46 +2,40 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Pendahuluan
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Komputer adalah perangkat elektronik yang dirancang untuk memproses data berdasarkan instruksi yang diberikan
+Saat ini Komputer telah digunakan dalam berbagai bidang seperti desain grafis, Olah data dan lain-lain.
 
-## Getting Started
+## Komponen utama Komputer
 
-Get started by **creating a new site**.
+Hardware adalah bagian komputer yang dapat disentuh secara fisik, berikut adalah daftar hardware 
+yang wajib ada pada sebuah komputer
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Central Processing Unit (CPU)
+  - Otak dari komputer yang bertugas menjalankan instruksi program, Intel dan Amd adalah dua perusahaan raksasa
+    yang menguasai produksi CPU saat ini.
 
-### What you'll need
+### Random Access Memory (RAM)
+  - Memori sementara yang digunakan oleh CPU untuk menyimpan data yang sedang diproses. 
+    ukuran Ram umumnya mulai dari 2Gb 4Gb dan seterusnya
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Penyimpanan (Storage)
+  - Tempat penyimpanan data permanen seperti foto, video, file dan lain-lain. saat ini Solide State Drive (Ssd)
+    adalah jenis sotrage yang populer digunakan. Ukuran Storage yang biasa digunaka seperti 128 Gb, 256 Gb , 500z Gb.
+    
+### Power Supply Unit(PSU)
+  - Mengubah listrik dari stopkontak menjadi daya yang dapat digunakan oleh komponen komputer
 
-## Generate a new site
+### CPU Cooling
+  - Kipas yang berfungsi mendinginkan CPU
 
-Generate a new Docusaurus site using the **classic template**.
+### Motherboard
+  - Papan utama yang menghubungkan semua komponen komputer.
 
-The classic template will automatically be added to your project after you run the command:
+### Graphics Processing Unit (GPU)
+  - Perangkat yang menangani pemrosesan gambar, jika CPU telah memiliki GPU bawaan maka
+  GPU tambahan tidak diperlukan
 
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Kasing
+  - Box tempat komputer akan dirakit.
